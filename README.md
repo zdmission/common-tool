@@ -184,7 +184,7 @@ isHasChinese('zdmission') // true
 
 ```
 
-## 五、版本说明
+## 四、版本说明
   
 ### 1.0.0版本
 - 1.bug修复
