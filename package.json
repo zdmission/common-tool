@@ -1,0 +1,11 @@
+{
+  "name": "common-tool",
+  "version": "1.0.1",
+  "description": "常用方法集合",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michel <zd1051444638@outlook.com>",
+  "license": "ISC"
+}

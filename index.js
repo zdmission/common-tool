@@ -1,0 +1,3 @@
+import {trim,cookie,Math_add,Math_sub,Math_mul,Math_div,goUrl,getPara,storage,delStorage,isJson,remFn,formatThousandUpdate,formatThousand,formatTime,formatSecond,toGoOrigin,paramSerialization,utils,isEmptyObject} from './src/tools'
+
+export {trim,cookie,Math_add,Math_sub,Math_mul,Math_div,goUrl,getPara,storage,delStorage,isJson,remFn,formatThousandUpdate,formatThousand,formatTime,formatSecond,toGoOrigin,paramSerialization,utils,isEmptyObject}
